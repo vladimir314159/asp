@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Blocked2Image.py	../Blocked2Image.py	1;"	kind:file	line:1
+blocked_file	../Blocked2Image.py	/^blocked_file = open(".\/blocked1400.lp","r")$/;"	kind:variable	line:19
+channels	../Blocked2Image.py	/^channels = 3$/;"	kind:variable	line:9
+height	../Blocked2Image.py	/^height = 480$/;"	kind:variable	line:8
+img	../Blocked2Image.py	/^img = np.zeros((height, width, channels), dtype=np.uint8)$/;"	kind:variable	line:12
+listOfBlocked	../Blocked2Image.py	/^listOfBlocked = []$/;"	kind:variable	line:20
+listOfBlocked	../Blocked2Image.py	/^listOfBlocked = temp$/;"	kind:variable	line:29
+temp	../Blocked2Image.py	/^temp = []$/;"	kind:variable	line:25
+width	../Blocked2Image.py	/^width = 640$/;"	kind:variable	line:7

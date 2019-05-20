@@ -1,0 +1,9 @@
+Encoding 3 does not work well at all so expirements do not use it.
+it fails at n=8
+
+After doing the first 50 looking for one solution it became clear that encodings 4,7,8 are not good either. 
+
+
+Thus we remove them
+
+

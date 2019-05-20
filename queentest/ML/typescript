@@ -1,0 +1,2001 @@
+Script started on 2018-11-25 09:26:52-0500
+]0;daniel@Reimann: ~/Documents/Research/problems/queentest/ML[01;32mdaniel@Reimann[00m:[01;34m~/Documents/Research/problems/queentest/ML[00m$ python testcnn.py && exit
+Using TensorFlow backend.
+2018-11-25 09:26:55.567166: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Found 284 images belonging to 2 classes.
+filename:	queen4.blocked_n=63_3376.png
+[[0.3806311]]
+[[0.20160997]]
+[[0.07346508]]
+[[0.03596797]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3345.png
+[[0.41779137]]
+[[0.3959575]]
+[[0.18406059]]
+[[0.2854875]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3433.png
+[[0.21171138]]
+[[0.23568696]]
+[[0.08120909]]
+[[0.07345385]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3468.png
+[[0.04147201]]
+[[0.03896969]]
+[[0.01732869]]
+[[0.00382538]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=65_3441.png
+[[0.91674685]]
+[[0.9172871]]
+[[0.816468]]
+[[0.57127005]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3342.png
+[[0.54094344]]
+[[0.5087198]]
+[[0.23295143]]
+[[0.83175415]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3339.png
+[[0.76133394]]
+[[0.7480654]]
+[[0.6040955]]
+[[0.9987587]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3390.png
+[[0.4216647]]
+[[0.24508847]]
+[[0.13915513]]
+[[0.00875495]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3436.png
+[[0.8199595]]
+[[0.6942214]]
+[[0.66132015]]
+[[0.97941244]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3435.png
+[[0.12018764]]
+[[0.07382441]]
+[[0.05656621]]
+[[0.6992737]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3424.png
+[[0.83369803]]
+[[0.67421216]]
+[[0.34236792]]
+[[0.8471023]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3372.png
+[[0.3619268]]
+[[0.35909468]]
+[[0.14239107]]
+[[0.00897335]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3324.png
+[[0.8441679]]
+[[0.8031093]]
+[[0.6964641]]
+[[0.9985129]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3402.png
+[[0.2439391]]
+[[0.16816117]]
+[[0.06175953]]
+[[0.4208892]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3482.png
+[[0.04307733]]
+[[0.03736706]]
+[[0.02080783]]
+[[0.00345012]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3373.png
+[[0.3168342]]
+[[0.3514403]]
+[[0.15311219]]
+[[0.5225723]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3371.png
+[[0.4753569]]
+[[0.3637533]]
+[[0.28941476]]
+[[0.56456864]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3424.png
+[[0.21978062]]
+[[0.19282754]]
+[[0.12175226]]
+[[0.06451556]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3425.png
+[[0.91081935]]
+[[0.8377984]]
+[[0.6975654]]
+[[0.9830809]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3447.png
+[[0.85236657]]
+[[0.8008768]]
+[[0.75634605]]
+[[0.94963795]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3456.png
+[[0.07056952]]
+[[0.05068898]]
+[[0.02611329]]
+[[0.0005193]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3365.png
+[[0.6123177]]
+[[0.5571374]]
+[[0.40365157]]
+[[0.8335995]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3432.png
+[[0.8703574]]
+[[0.8515127]]
+[[0.7561955]]
+[[0.9970523]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3388.png
+[[0.24994852]]
+[[0.24883096]]
+[[0.06449249]]
+[[0.3752267]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3430.png
+[[0.8377137]]
+[[0.73098546]]
+[[0.5729393]]
+[[0.9256211]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3438.png
+[[0.91405636]]
+[[0.8841415]]
+[[0.78648084]]
+[[0.9791448]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3340.png
+[[0.59927946]]
+[[0.511332]]
+[[0.28251496]]
+[[0.49124524]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3349.png
+[[0.5927763]]
+[[0.5501242]]
+[[0.325979]]
+[[0.931578]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3433.png
+[[0.90758586]]
+[[0.849891]]
+[[0.7887876]]
+[[0.9868204]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3403.png
+[[0.21051241]]
+[[0.17781745]]
+[[0.09991224]]
+[[0.24367842]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3418.png
+[[0.35846367]]
+[[0.3541628]]
+[[0.20984526]]
+[[0.697317]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3427.png
+[[0.11793122]]
+[[0.06538565]]
+[[0.02328507]]
+[[0.00021266]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3379.png
+[[0.28204253]]
+[[0.1560324]]
+[[0.04908695]]
+[[0.03599747]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3344.png
+[[0.5884572]]
+[[0.62637806]]
+[[0.3611752]]
+[[0.90396565]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3426.png
+[[0.8610407]]
+[[0.74765396]]
+[[0.6121843]]
+[[0.5299552]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3480.png
+[[0.05515674]]
+[[0.0597157]]
+[[0.02310372]]
+[[0.00108726]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3326.png
+[[0.7161391]]
+[[0.5762533]]
+[[0.6029125]]
+[[0.9665326]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3359.png
+[[0.39722678]]
+[[0.5177852]]
+[[0.19584736]]
+[[0.87307197]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3396.png
+[[0.27493078]]
+[[0.3161195]]
+[[0.12443535]]
+[[0.86705446]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3360.png
+[[0.5155003]]
+[[0.5018242]]
+[[0.5565229]]
+[[0.38723496]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3404.png
+[[0.17524827]]
+[[0.13194256]]
+[[0.06544777]]
+[[0.0061903]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3406.png
+[[0.1197594]]
+[[0.04538181]]
+[[0.01413269]]
+[[0.00128006]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3356.png
+[[0.4074756]]
+[[0.32150486]]
+[[0.12408575]]
+[[0.18261978]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3448.png
+[[0.81485945]]
+[[0.7219574]]
+[[0.60760844]]
+[[0.32744247]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3384.png
+[[0.32527068]]
+[[0.19752558]]
+[[0.10055613]]
+[[0.15041782]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3473.png
+[[0.04046308]]
+[[0.02326723]]
+[[0.01314282]]
+[[0.00365373]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3325.png
+[[0.71545833]]
+[[0.5311446]]
+[[0.4029616]]
+[[0.7771616]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3393.png
+[[0.42350754]]
+[[0.30429387]]
+[[0.11274402]]
+[[0.97292274]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3477.png
+[[0.08238608]]
+[[0.0770211]]
+[[0.02248021]]
+[[0.00033778]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3328.png
+[[0.73405176]]
+[[0.7522558]]
+[[0.48055056]]
+[[0.84802276]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3442.png
+[[0.75093025]]
+[[0.54583967]]
+[[0.3347895]]
+[[0.58985287]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3488.png
+[[0.03570764]]
+[[0.03066283]]
+[[0.01405772]]
+[[0.00019856]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3414.png
+[[0.10591862]]
+[[0.05912726]]
+[[0.0280067]]
+[[0.00617823]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=65_3437.png
+[[0.89552957]]
+[[0.8730951]]
+[[0.7363172]]
+[[0.99553925]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3343.png
+[[0.55406034]]
+[[0.33827624]]
+[[0.12033918]]
+[[0.7253951]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3465.png
+[[0.08412548]]
+[[0.13255793]]
+[[0.04240732]]
+[[0.11728841]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3352.png
+[[0.49412]]
+[[0.3044491]]
+[[0.15809408]]
+[[0.4899936]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3425.png
+[[0.15913242]]
+[[0.11569393]]
+[[0.05206733]]
+[[0.12816162]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3333.png
+[[0.702174]]
+[[0.56419027]]
+[[0.35736084]]
+[[0.91699684]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3486.png
+[[0.01903718]]
+[[0.03031167]]
+[[0.01389309]]
+[[0.00268388]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3441.png
+[[0.07241686]]
+[[0.07800267]]
+[[0.02639735]]
+[[0.00666654]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3412.png
+[[0.3171601]]
+[[0.1920793]]
+[[0.10415817]]
+[[0.8850064]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3382.png
+[[0.3186555]]
+[[0.29157162]]
+[[0.10265395]]
+[[0.39918014]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3444.png
+[[0.8924259]]
+[[0.87019205]]
+[[0.8025539]]
+[[0.9754971]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3449.png
+[[0.87437886]]
+[[0.84857106]]
+[[0.7667199]]
+[[0.9074448]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3421.png
+[[0.21312638]]
+[[0.13593377]]
+[[0.0363331]]
+[[0.00824949]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3341.png
+[[0.5681574]]
+[[0.46684662]]
+[[0.24373057]]
+[[0.24525845]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3408.png
+[[0.20560268]]
+[[0.13757491]]
+[[0.08235259]]
+[[0.26163176]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3451.png
+[[0.1623282]]
+[[0.19101696]]
+[[0.07053862]]
+[[0.42536226]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3411.png
+[[0.30654788]]
+[[0.23290846]]
+[[0.14065368]]
+[[0.8954957]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3423.png
+[[0.16586702]]
+[[0.13951206]]
+[[0.05113169]]
+[[0.05570972]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3469.png
+[[0.08155082]]
+[[0.04465831]]
+[[0.01852902]]
+[[0.00066228]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3416.png
+[[0.25627682]]
+[[0.20597242]]
+[[0.08975326]]
+[[0.26039773]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3427.png
+[[0.9364368]]
+[[0.9434905]]
+[[0.90351236]]
+[[0.96091056]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3417.png
+[[0.21799174]]
+[[0.19222556]]
+[[0.08349724]]
+[[0.05892283]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3446.png
+[[0.84436643]]
+[[0.74670655]]
+[[0.54560083]]
+[[0.90142775]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3419.png
+[[0.41891044]]
+[[0.3020878]]
+[[0.19416185]]
+[[0.3248288]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3440.png
+[[0.91079545]]
+[[0.8248558]]
+[[0.7595656]]
+[[0.86067736]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3423.png
+[[0.9287079]]
+[[0.94680583]]
+[[0.88972545]]
+[[0.9626635]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3335.png
+[[0.66630375]]
+[[0.6652519]]
+[[0.6142587]]
+[[0.994888]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3443.png
+[[0.12820968]]
+[[0.09167013]]
+[[0.0576379]]
+[[0.05816338]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3461.png
+[[0.08004673]]
+[[0.06878722]]
+[[0.03260026]]
+[[0.00741095]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3439.png
+[[0.1578021]]
+[[0.13876253]]
+[[0.04975391]]
+[[0.16772509]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3415.png
+[[0.2158704]]
+[[0.15560284]]
+[[0.07827701]]
+[[0.17827901]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3399.png
+[[0.28714147]]
+[[0.17025173]]
+[[0.14859371]]
+[[0.9274663]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3337.png
+[[0.61477953]]
+[[0.49079326]]
+[[0.34898534]]
+[[0.9314181]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3385.png
+[[0.3531386]]
+[[0.34028965]]
+[[0.19345953]]
+[[0.95108867]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3351.png
+[[0.7386392]]
+[[0.7204536]]
+[[0.5947322]]
+[[0.969329]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3422.png
+[[0.18357052]]
+[[0.20544414]]
+[[0.05832579]]
+[[0.01652237]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3432.png
+[[0.14199427]]
+[[0.14227568]]
+[[0.03372523]]
+[[0.0240772]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3398.png
+[[0.23433298]]
+[[0.09874604]]
+[[0.03582769]]
+[[0.01782407]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=65_3434.png
+[[0.92663217]]
+[[0.8916792]]
+[[0.8023471]]
+[[0.9286991]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3413.png
+[[0.21812555]]
+[[0.15848796]]
+[[0.0596552]]
+[[0.07437225]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3369.png
+[[0.7329581]]
+[[0.6896171]]
+[[0.46865365]]
+[[0.9733419]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3436.png
+[[0.32240868]]
+[[0.31368524]]
+[[0.16073315]]
+[[0.5787554]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3387.png
+[[0.22154106]]
+[[0.15980983]]
+[[0.0451858]]
+[[0.0375389]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3364.png
+[[0.2762622]]
+[[0.13410662]]
+[[0.06133899]]
+[[0.19563918]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3338.png
+[[0.6259629]]
+[[0.6023919]]
+[[0.59344345]]
+[[0.95081776]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3400.png
+[[0.25923285]]
+[[0.22056344]]
+[[0.08156675]]
+[[0.00636724]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3366.png
+[[0.43699607]]
+[[0.37893477]]
+[[0.14812897]]
+[[0.91894996]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3327.png
+[[0.32728395]]
+[[0.2954656]]
+[[0.06629406]]
+[[0.46817166]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3443.png
+[[0.9048403]]
+[[0.86394054]]
+[[0.70334905]]
+[[0.97347134]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3450.png
+[[0.21967915]]
+[[0.172475]]
+[[0.08195084]]
+[[0.3237631]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3429.png
+[[0.09808169]]
+[[0.05866369]]
+[[0.03146788]]
+[[0.01557511]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3354.png
+[[0.5244678]]
+[[0.6874519]]
+[[0.48330885]]
+[[0.97521156]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3378.png
+[[0.3889778]]
+[[0.3789675]]
+[[0.16092277]]
+[[0.06997209]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3431.png
+[[0.8988875]]
+[[0.86888087]]
+[[0.8117053]]
+[[0.79228806]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3431.png
+[[0.07114035]]
+[[0.11335533]]
+[[0.02887643]]
+[[0.00219368]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3368.png
+[[0.26559258]]
+[[0.18115686]]
+[[0.06926344]]
+[[0.71678144]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3442.png
+[[0.12795669]]
+[[0.15046899]]
+[[0.06909825]]
+[[0.29968375]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3464.png
+[[0.04761042]]
+[[0.04007047]]
+[[0.01405745]]
+[[0.00061798]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3470.png
+[[0.08435833]]
+[[0.09284559]]
+[[0.03264652]]
+[[0.0157325]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3394.png
+[[0.3092416]]
+[[0.22543855]]
+[[0.07708833]]
+[[0.21783738]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3435.png
+[[0.89883405]]
+[[0.831977]]
+[[0.71676487]]
+[[0.94419074]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3407.png
+[[0.19902146]]
+[[0.15021773]]
+[[0.04663086]]
+[[0.03723183]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=65_3428.png
+[[0.8723458]]
+[[0.8411565]]
+[[0.66862637]]
+[[0.98708296]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3437.png
+[[0.2019253]]
+[[0.18823442]]
+[[0.09378346]]
+[[0.02228419]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3445.png
+[[0.9149711]]
+[[0.89772636]]
+[[0.8968014]]
+[[0.94726443]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3458.png
+[[0.04310954]]
+[[0.06935076]]
+[[0.01916269]]
+[[0.0241084]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3355.png
+[[0.5503165]]
+[[0.5127531]]
+[[0.30445963]]
+[[0.7913105]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3363.png
+[[0.4814019]]
+[[0.34283212]]
+[[0.22915792]]
+[[0.51573604]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3429.png
+[[0.92374897]]
+[[0.93452245]]
+[[0.87613]]
+[[0.9825743]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3353.png
+[[0.5557185]]
+[[0.4573843]]
+[[0.2950944]]
+[[0.9688116]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3330.png
+[[0.3032925]]
+[[0.15048973]]
+[[0.06888644]]
+[[0.13746274]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3350.png
+[[0.60296506]]
+[[0.39286387]]
+[[0.28818604]]
+[[0.9811109]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3426.png
+[[0.05695224]]
+[[0.03161971]]
+[[0.01501322]]
+[[0.00026965]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3462.png
+[[0.16623864]]
+[[0.15291059]]
+[[0.06595373]]
+[[0.43342096]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=65_3439.png
+[[0.92853993]]
+[[0.927006]]
+[[0.8368828]]
+[[0.98017544]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3391.png
+[[0.4146735]]
+[[0.37632015]]
+[[0.19285892]]
+[[0.6332216]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3329.png
+[[0.7935244]]
+[[0.7646457]]
+[[0.51670307]]
+[[0.888916]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3357.png
+[[0.4046444]]
+[[0.19729245]]
+[[0.09869927]]
+[[0.12305263]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3336.png
+[[0.5752926]]
+[[0.5088578]]
+[[0.25676548]]
+[[0.91492015]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3346.png
+[[0.6168706]]
+[[0.6225758]]
+[[0.29076207]]
+[[0.92146164]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3367.png
+[[0.15701428]]
+[[0.04189718]]
+[[0.01836348]]
+[[6.1543346e-05]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3374.png
+[[0.4353948]]
+[[0.41643077]]
+[[0.28859508]]
+[[0.5942514]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3331.png
+[[0.6129303]]
+[[0.47487983]]
+[[0.20166564]]
+[[0.35556334]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3463.png
+[[0.1033324]]
+[[0.04682767]]
+[[0.02837692]]
+[[0.0043149]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3445.png
+[[0.03384598]]
+[[0.02679431]]
+[[0.01269752]]
+[[0.0031798]]
+        	queen11
+correct:	 queen4
+filename:	queen4.blocked_n=63_3466.png
+[[0.14287867]]
+[[0.16740325]]
+[[0.05626703]]
+[[0.14161956]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3377.png
+[[0.552348]]
+[[0.4678027]]
+[[0.24469173]]
+[[0.8761296]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3334.png
+[[0.5344274]]
+[[0.4137487]]
+[[0.23574015]]
+[[0.6557739]]
+        	queen4
+correct:	 queen4
+filename:	queen4.blocked_n=63_3467.png
+[[0.08785065]]
+[[0.0367225]]
+[[0.02137037]]
+[[4.0674753e-05]]
+        	queen11
+correct:	 queen4
+sour creme
+
+filename:	queen11.blocked_n=79_5460.png
+[[0.04145313]]
+[[0.03499961]]
+[[0.01538472]]
+[[0.0001466]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5482.png
+[[0.05695467]]
+[[0.04386208]]
+[[0.02840106]]
+[[0.00286619]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5473.png
+[[0.01222731]]
+[[0.01654548]]
+[[0.00711423]]
+[[6.594501e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5265.png
+[[0.40101]]
+[[0.25945807]]
+[[0.08532831]]
+[[0.0767816]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5446.png
+[[0.02419849]]
+[[0.02843423]]
+[[0.00992905]]
+[[2.2706994e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5397.png
+[[0.10748371]]
+[[0.05951349]]
+[[0.02165426]]
+[[5.264153e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5488.png
+[[0.01649797]]
+[[0.02459922]]
+[[0.0126797]]
+[[2.9049099e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5298.png
+[[0.12422038]]
+[[0.06769799]]
+[[0.03168949]]
+[[0.00032223]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5222.png
+[[0.3639457]]
+[[0.2915975]]
+[[0.11480892]]
+[[0.70098627]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5323.png
+[[0.06570362]]
+[[0.03227073]]
+[[0.01343766]]
+[[0.00045372]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5475.png
+[[0.04408899]]
+[[0.05041727]]
+[[0.01564329]]
+[[0.00312593]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5290.png
+[[0.4800893]]
+[[0.42535746]]
+[[0.15263878]]
+[[0.5313818]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5269.png
+[[0.20031765]]
+[[0.13165683]]
+[[0.03319717]]
+[[0.00484975]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5356.png
+[[0.20547941]]
+[[0.264475]]
+[[0.09429881]]
+[[0.01043178]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5399.png
+[[0.0382537]]
+[[0.0195798]]
+[[0.00981118]]
+[[5.495429e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5449.png
+[[0.03171444]]
+[[0.01876492]]
+[[0.00864613]]
+[[6.23222e-07]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5351.png
+[[0.01376144]]
+[[0.03451176]]
+[[0.01108999]]
+[[5.204865e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5354.png
+[[0.25253257]]
+[[0.26845184]]
+[[0.05036255]]
+[[0.03183537]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5351.png
+[[0.36226535]]
+[[0.20432092]]
+[[0.0927941]]
+[[0.47409475]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5285.png
+[[0.14169459]]
+[[0.1349971]]
+[[0.06734446]]
+[[0.00223177]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5454.png
+[[0.02657419]]
+[[0.02243686]]
+[[0.01665599]]
+[[0.00024351]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5461.png
+[[0.04870569]]
+[[0.04026872]]
+[[0.01551052]]
+[[8.3670515e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5423.png
+[[0.09921921]]
+[[0.1022184]]
+[[0.04102696]]
+[[0.00077486]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5251.png
+[[0.07748625]]
+[[0.06931111]]
+[[0.02000806]]
+[[8.335682e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5312.png
+[[0.22021614]]
+[[0.08007117]]
+[[0.04693404]]
+[[0.02325928]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5271.png
+[[0.13477544]]
+[[0.12005026]]
+[[0.03532706]]
+[[0.01835439]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5400.png
+[[0.0231506]]
+[[0.01291551]]
+[[0.00791595]]
+[[4.761846e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5374.png
+[[0.10809284]]
+[[0.09990943]]
+[[0.03719083]]
+[[0.00595712]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5402.png
+[[0.04116416]]
+[[0.01501363]]
+[[0.01088131]]
+[[8.6377404e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5223.png
+[[0.02857393]]
+[[0.02461108]]
+[[0.01039056]]
+[[0.00011836]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5282.png
+[[0.03030714]]
+[[0.01378424]]
+[[0.0069194]]
+[[1.27975745e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5286.png
+[[0.04481724]]
+[[0.02860104]]
+[[0.01316855]]
+[[6.897645e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5376.png
+[[0.14888707]]
+[[0.07841701]]
+[[0.03375401]]
+[[0.00030317]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5366.png
+[[0.08837958]]
+[[0.04120241]]
+[[0.01988498]]
+[[2.7471222e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5427.png
+[[0.05972584]]
+[[0.03251774]]
+[[0.01325575]]
+[[2.4148532e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5228.png
+[[0.15077046]]
+[[0.07332946]]
+[[0.02784429]]
+[[0.00036032]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5289.png
+[[0.3755398]]
+[[0.27305722]]
+[[0.09076978]]
+[[0.05875095]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5310.png
+[[0.06614535]]
+[[0.06205767]]
+[[0.0195576]]
+[[2.806517e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5313.png
+[[0.12112559]]
+[[0.07310533]]
+[[0.02291338]]
+[[0.00066384]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5443.png
+[[0.05567956]]
+[[0.03052753]]
+[[0.01368636]]
+[[8.670478e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5322.png
+[[0.04417099]]
+[[0.02860791]]
+[[0.0157727]]
+[[3.952414e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5467.png
+[[0.06809338]]
+[[0.0324729]]
+[[0.01594101]]
+[[0.00012706]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5339.png
+[[0.18922134]]
+[[0.06583087]]
+[[0.03456258]]
+[[0.00060724]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5334.png
+[[0.0180337]]
+[[0.01592807]]
+[[0.00754732]]
+[[3.8132748e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5338.png
+[[0.3058629]]
+[[0.21902709]]
+[[0.05699716]]
+[[0.00919731]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5430.png
+[[0.04118621]]
+[[0.04332905]]
+[[0.01381934]]
+[[0.00022736]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5437.png
+[[0.09582359]]
+[[0.07071798]]
+[[0.01968347]]
+[[0.00062526]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5260.png
+[[0.05753753]]
+[[0.02615124]]
+[[0.01143358]]
+[[2.9417923e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5295.png
+[[0.08803637]]
+[[0.07467979]]
+[[0.01811408]]
+[[2.2363856e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5330.png
+[[0.02669625]]
+[[0.02451845]]
+[[0.01171449]]
+[[1.0115463e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5239.png
+[[0.22111262]]
+[[0.19004472]]
+[[0.08599765]]
+[[0.02454909]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5335.png
+[[0.02608787]]
+[[0.01786215]]
+[[0.010789]]
+[[1.8512443e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5409.png
+[[0.13491227]]
+[[0.05541518]]
+[[0.02207134]]
+[[0.00089771]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5245.png
+[[0.06190155]]
+[[0.03981704]]
+[[0.01629666]]
+[[8.176815e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5247.png
+[[0.13928321]]
+[[0.04774648]]
+[[0.02761575]]
+[[0.00043696]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5322.png
+[[0.1527283]]
+[[0.11792309]]
+[[0.03212068]]
+[[0.01335167]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5414.png
+[[0.02764186]]
+[[0.01784457]]
+[[0.00747943]]
+[[1.5470412e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5407.png
+[[0.11324693]]
+[[0.02875308]]
+[[0.01491307]]
+[[8.466874e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5277.png
+[[0.06249938]]
+[[0.06189488]]
+[[0.01734507]]
+[[0.00011062]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5444.png
+[[0.07038666]]
+[[0.05629652]]
+[[0.01730081]]
+[[0.00959665]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5447.png
+[[0.07372785]]
+[[0.03458936]]
+[[0.01590434]]
+[[4.8566617e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5382.png
+[[0.06702005]]
+[[0.03097433]]
+[[0.01698966]]
+[[0.00141457]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5462.png
+[[0.06284266]]
+[[0.04298715]]
+[[0.01492582]]
+[[3.4658835e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5325.png
+[[0.34899503]]
+[[0.3532369]]
+[[0.17876647]]
+[[0.00359809]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5265.png
+[[0.07367401]]
+[[0.0511393]]
+[[0.02198621]]
+[[0.00027897]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5224.png
+[[0.07657182]]
+[[0.03842143]]
+[[0.01384955]]
+[[0.00091619]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5346.png
+[[0.17969266]]
+[[0.09064701]]
+[[0.02841523]]
+[[0.00489916]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5345.png
+[[0.24803104]]
+[[0.2510021]]
+[[0.09126474]]
+[[0.03417328]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5328.png
+[[0.04230575]]
+[[0.02942466]]
+[[0.01611727]]
+[[3.7684644e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5320.png
+[[0.13198034]]
+[[0.13503447]]
+[[0.04035644]]
+[[0.00547409]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5489.png
+[[0.04874454]]
+[[0.02887122]]
+[[0.01372602]]
+[[2.9391058e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5380.png
+[[0.08725733]]
+[[0.04236312]]
+[[0.01696884]]
+[[0.00026899]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5293.png
+[[0.02041153]]
+[[0.01574909]]
+[[0.00759064]]
+[[1.3539799e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5229.png
+[[0.06617822]]
+[[0.04861279]]
+[[0.01648556]]
+[[0.00199908]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5424.png
+[[0.08452418]]
+[[0.06191781]]
+[[0.01903198]]
+[[0.00074386]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5341.png
+[[0.11855719]]
+[[0.04797806]]
+[[0.01954749]]
+[[0.00245865]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5250.png
+[[0.5067352]]
+[[0.35729524]]
+[[0.13865985]]
+[[0.02708186]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5439.png
+[[0.01340416]]
+[[0.01372537]]
+[[0.00706443]]
+[[9.196647e-07]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5243.png
+[[0.4836138]]
+[[0.46753436]]
+[[0.19263837]]
+[[0.40043417]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5316.png
+[[0.19281265]]
+[[0.1157494]]
+[[0.0547255]]
+[[0.04540125]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5305.png
+[[0.16302437]]
+[[0.12551367]]
+[[0.03234003]]
+[[0.01037907]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5435.png
+[[0.02977882]]
+[[0.02750317]]
+[[0.00976333]]
+[[5.3000782e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5392.png
+[[0.06943063]]
+[[0.02818257]]
+[[0.02202478]]
+[[5.0278657e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5278.png
+[[0.06345648]]
+[[0.03535342]]
+[[0.01738679]]
+[[6.283321e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5383.png
+[[0.138723]]
+[[0.07095682]]
+[[0.02438606]]
+[[1.0449007e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5410.png
+[[0.07728709]]
+[[0.07503852]]
+[[0.0260731]]
+[[0.00172368]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5297.png
+[[0.3994556]]
+[[0.37572414]]
+[[0.09891534]]
+[[0.24730067]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5483.png
+[[0.02801163]]
+[[0.02591385]]
+[[0.01572288]]
+[[3.9845178e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5426.png
+[[0.03272051]]
+[[0.0197043]]
+[[0.0080913]]
+[[1.3560358e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5459.png
+[[0.02161925]]
+[[0.0251358]]
+[[0.00938921]]
+[[2.2751126e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5326.png
+[[0.05155569]]
+[[0.05419256]]
+[[0.01494817]]
+[[7.9861806e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5455.png
+[[0.05845749]]
+[[0.05949509]]
+[[0.01467127]]
+[[0.00154854]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5364.png
+[[0.08494045]]
+[[0.04985737]]
+[[0.0232294]]
+[[0.00022381]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5394.png
+[[0.06775267]]
+[[0.02991566]]
+[[0.01374166]]
+[[5.4374173e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5343.png
+[[0.03770035]]
+[[0.05287562]]
+[[0.01764856]]
+[[0.00312691]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5321.png
+[[0.24714105]]
+[[0.17804794]]
+[[0.03444031]]
+[[0.00085187]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5321.png
+[[0.06481988]]
+[[0.0367456]]
+[[0.0159289]]
+[[0.00014403]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5431.png
+[[0.03254011]]
+[[0.02877648]]
+[[0.01220196]]
+[[3.074213e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5478.png
+[[0.03293414]]
+[[0.02661773]]
+[[0.0111231]]
+[[0.00039516]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5486.png
+[[0.03893276]]
+[[0.03382802]]
+[[0.01674333]]
+[[0.00023576]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5384.png
+[[0.17592658]]
+[[0.10456886]]
+[[0.04677239]]
+[[0.00845816]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5445.png
+[[0.02692663]]
+[[0.02079839]]
+[[0.01082575]]
+[[7.0106607e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5338.png
+[[0.02941583]]
+[[0.02399974]]
+[[0.01278812]]
+[[3.862709e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5458.png
+[[0.02455381]]
+[[0.02220491]]
+[[0.00838788]]
+[[2.1918868e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5232.png
+[[0.24228491]]
+[[0.11814685]]
+[[0.04537571]]
+[[0.00602213]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5312.png
+[[0.04311398]]
+[[0.0217183]]
+[[0.01049622]]
+[[3.9727975e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5317.png
+[[0.31745985]]
+[[0.26120806]]
+[[0.15402664]]
+[[0.05270499]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5334.png
+[[0.23838902]]
+[[0.147936]]
+[[0.04811128]]
+[[0.14286442]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5385.png
+[[0.04285164]]
+[[0.03952755]]
+[[0.01219483]]
+[[0.00189835]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5273.png
+[[0.10814392]]
+[[0.09520055]]
+[[0.0289479]]
+[[0.00254669]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5337.png
+[[0.02469939]]
+[[0.02406148]]
+[[0.0088579]]
+[[0.00032754]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5291.png
+[[0.05764687]]
+[[0.03951127]]
+[[0.01683774]]
+[[0.00233684]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5242.png
+[[0.11412839]]
+[[0.05489844]]
+[[0.02209412]]
+[[0.02488483]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5353.png
+[[0.20180525]]
+[[0.18169947]]
+[[0.04165337]]
+[[0.03814219]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5276.png
+[[0.5593179]]
+[[0.4306885]]
+[[0.2417713]]
+[[0.08342154]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5279.png
+[[0.09112903]]
+[[0.05288337]]
+[[0.02057625]]
+[[0.00084523]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5283.png
+[[0.26112342]]
+[[0.16900353]]
+[[0.04296111]]
+[[0.01107873]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5335.png
+[[0.20310722]]
+[[0.08169989]]
+[[0.02114703]]
+[[0.00037123]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5333.png
+[[0.38519222]]
+[[0.33603683]]
+[[0.1186268]]
+[[0.07269958]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5320.png
+[[0.03861158]]
+[[0.02405765]]
+[[0.00882435]]
+[[8.258941e-05]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5401.png
+[[0.11098967]]
+[[0.05807767]]
+[[0.02713575]]
+[[0.00033855]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5332.png
+[[0.04346103]]
+[[0.04148267]]
+[[0.01805618]]
+[[0.00118791]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5244.png
+[[0.16619979]]
+[[0.06381007]]
+[[0.03482268]]
+[[0.00090175]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5463.png
+[[0.06968091]]
+[[0.04970569]]
+[[0.01751323]]
+[[0.00066885]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5372.png
+[[0.13090426]]
+[[0.05892143]]
+[[0.0234841]]
+[[0.00052488]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5371.png
+[[0.11285259]]
+[[0.1107273]]
+[[0.03461136]]
+[[0.00011689]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5241.png
+[[0.10461982]]
+[[0.08284978]]
+[[0.02027535]]
+[[0.00181856]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5347.png
+[[0.0178189]]
+[[0.01722651]]
+[[0.00850993]]
+[[5.559469e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5252.png
+[[0.13477986]]
+[[0.06098068]]
+[[0.02660484]]
+[[0.00091556]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5344.png
+[[0.39516243]]
+[[0.2911782]]
+[[0.10376986]]
+[[0.07205673]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5246.png
+[[0.45288733]]
+[[0.38733053]]
+[[0.13390765]]
+[[0.00398844]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5438.png
+[[0.0246497]]
+[[0.01297146]]
+[[0.00667888]]
+[[7.0432966e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5457.png
+[[0.02350517]]
+[[0.01749945]]
+[[0.01178657]]
+[[0.00019566]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5293.png
+[[0.44952166]]
+[[0.27331692]]
+[[0.10313021]]
+[[0.03453324]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=78_5324.png
+[[0.11048292]]
+[[0.05849895]]
+[[0.03005064]]
+[[0.00016146]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5472.png
+[[0.05523677]]
+[[0.03716212]]
+[[0.01631411]]
+[[0.0009853]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5474.png
+[[0.02124657]]
+[[0.02324232]]
+[[0.00878897]]
+[[8.481771e-06]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=79_5281.png
+[[0.40985024]]
+[[0.29083392]]
+[[0.11945783]]
+[[0.01039311]]
+        	queen4
+correct:	 queen11
+filename:	queen11.blocked_n=79_5403.png
+[[0.13332327]]
+[[0.15577537]]
+[[0.03583673]]
+[[0.02637628]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5267.png
+[[0.09285028]]
+[[0.06059235]]
+[[0.02277067]]
+[[0.00040572]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5315.png
+[[0.07869574]]
+[[0.07732706]]
+[[0.02230018]]
+[[0.00099754]]
+        	queen11
+correct:	 queen11
+filename:	queen11.blocked_n=78_5263.png
+[[0.11500999]]
+[[0.10947208]]
+[[0.04637907]]
+[[0.0034287]]
+        	queen11
+correct:	 queen11
+correct:	 227
+wrong:	 57
+percent correct:	 79.92957746478874
+exit
+
+Script done on 2018-11-25 09:27:06-0500

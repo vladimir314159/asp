@@ -1,0 +1,14 @@
+blocked(45,22).
+blocked(5,31).
+blocked(33,63).
+blocked(17,27).
+blocked(18,40).
+blocked(54,21).
+blocked(18,45).
+blocked(15,64).
+blocked(69,54).
+blocked(52,65).
+blocked(30,28).
+blocked(27,53).
+blocked(9,11).
+blocked(70,67).

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+while sleep 10; do ls queen4* |wc && ls queen11*|wc ; done
